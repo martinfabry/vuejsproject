@@ -1,0 +1,60 @@
+{
+  "football":{
+     "laliga":[
+        {
+           "id":0,
+           "name":"Carole Barron"
+        },
+        {
+           "id":1,
+           "name":"Humphrey Gardner"
+        },
+        {
+           "id":2,
+           "name":"Madeleine Carver"
+        }
+     ],
+     "premierleague":[
+        {
+           "id":0,
+           "name":"Carole Barron"
+        },
+        {
+           "id":1,
+           "name":"Humphrey Gardner"
+        },
+        {
+           "id":2,
+           "name":"Madeleine Carver"
+        }
+     ],
+     "bundesliga":[
+        {
+           "id":0,
+           "name":"Carole Barron"
+        },
+        {
+           "id":1,
+           "name":"Humphrey Gardner"
+        },
+        {
+           "id":2,
+           "name":"Madeleine Carver"
+        }
+     ],
+     "seriea":[
+        {
+           "id":0,
+           "name":"Carole Barron"
+        },
+        {
+           "id":1,
+           "name":"Humphrey Gardner"
+        },
+        {
+           "id":2,
+           "name":"Madeleine Carver"
+        }
+     ]
+  }
+}

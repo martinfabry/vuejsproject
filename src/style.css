@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: Roboco;
+  color: black;
+}
+
+body {
+  font: 100% Helvetica, sans-serif;
+  color: white;
+  background-color: black;
+}
+
+div#app {
+  width: 60%;
+  background-color: yellow;
+  margin: auto;
+}
+
+#menu {
+  background: white;
+  color: black;
+  width: 60%;
+  height: 50px;
+  /* padding-left: 20px; */
+  /* padding-right: 20px; */
+  position: fixed;
+  top: 0;
+  margin: auto;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: right;
+  /*
+    ul, li {
+      color: black;
+      margin: 0 auto;
+      padding: 0;
+      list-style: none;
+    }
+    ul> li {
+      margin: 0 auto;
+      padding: 0;
+      background: white;
+      position: relative;
+      list-style: none;
+      display: block;
+    }
+  
+    ul li a:hover > ul {
+      display: block;
+    }
+  
+   ul li a {
+      display: block;
+      position: relative;
+      text-decoration: none;
+    }
+   ul ul {
+      background: black repeat-y scroll 0 0 transparent;
+      border-radius: 0;
+      box-shadow: none;
+      display: none;
+      list-style: outside none none;
+      padding: 0;
+      position: relative !important;
+      top: 0;
+    }
+     ul li:first-child {
+      border-top: medium none;
+    }
+     ul ul li {
+      display: block;
+      float: none;
+      position: relative;
+      text-align: center;
+    }
+     ul ul li a {
+      color: #fff;
+      display: block;
+      padding: 0;
+      position: relative;
+      text-decoration: none;
+    }
+     ul li:hover a.top {
+      background: red;
+      color: black;
+    }
+     ul li:hover > ul {
+      display: block;
+    }
+  
+    ul {
+      width: 100%;
+    }
+  
+    li {
+      float: left;
+      display: inline;
+      position: relative;
+    }
+  
+    a {
+      display: block;
+      line-height: 45px;
+      padding: 0 14px;
+      text-decoration: none;
+      color: black;
+      font-size: 16px;
+    }
+  
+    a.dropdown-arrow:after {
+      content: "\25BE";
+      margin-left: 5px;
+    }
+  
+    li a:hover {
+      color: black;
+      background: #F2F2F2;
+    }
+    */
+}
+
+#menu img {
+  width: 50px;
+  position: left;
+  text-align: left;
+}
+
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #white;
+}
+
+#menu li {
+  float: left;
+}
+
+#menu li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+#menu li a:hover {
+  background-color: #ccc9c9;
+}
+/*# sourceMappingURL=style.css.map */
